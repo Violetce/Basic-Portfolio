@@ -13,7 +13,7 @@ header {
     height: 40px;
     background-color: #eee;
     font-family: Verdana, sans-serif;
-    width: 650px;
+    width: 960px;
     margin: auto;
   }
 
@@ -71,7 +71,7 @@ header h2 {
 }
 
 .container {
-    width: 650px;
+    width: 960px;
     margin: 70px auto;
     padding: 10px;
     background-color: #eee;
@@ -79,6 +79,12 @@ header h2 {
 
 .profile-image {
     width: 200px;
+    margin: 20px;
+    float: left;
+}
+
+.portfolio-image {
+   height: 300px;
     margin: 20px;
     float: left;
 }
