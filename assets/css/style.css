@@ -1,0 +1,61 @@
+css
+
+body {
+    background-color: #4a4a4a;
+    font-family: "Georgia", 'Times New Roman', Times, serif;
+    color: #333333;
+    margin: 20;
+    padding: 20;
+    line-height: 150%;
+}
+
+header {
+    height: 40px;
+    background-color: #eee;
+    font-family: Verdana, sans-serif;
+    width: 650px;
+    margin: auto;
+  }
+
+header li {
+    float: right;
+    color: #4a4a4a;
+    font-size: 12px;
+    margin: auto;
+    list-style-type: none;
+    padding: 15px;
+  }
+
+header h2 {
+    color: #eeeeee;
+    background-color: #008080;
+    font-size: 20px;
+    padding: 10px;
+    float: left;
+    margin: auto;
+}
+
+.title {
+    border-bottom: 1px solid #4a4a4a;
+}
+
+.title h1 {
+    color: #008080;
+    font-size: 28px;
+    padding: 2px;
+    text-align: left;
+}
+
+.container {
+    width: 650px;
+    margin: 70px auto;
+    padding: 10px;
+    background-color: #eee;
+    position: relative;
+}
+
+.profile-image {
+    width: 200px;
+    margin: 20px;
+    float: left;
+}
